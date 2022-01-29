@@ -28,7 +28,7 @@ Full-stack JS/Ruby developer who likes to build things in the Cloud.
   <a href="https://www.linkedin.com/in/muaaz-tausif-8b67499a/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:medet.bayramov22@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:muaaztausif93@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
